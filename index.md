@@ -83,3 +83,6 @@ features: # 可选的
 - **Email**: <a href="mailto:473618849@qq.com">473618849@qq.com</a>
 
 </br>  -->
+<ClientOnly>
+  <WebInfo/>
+</ClientOnly>
